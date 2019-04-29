@@ -1,0 +1,28 @@
+{
+  "name": "36dot5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongssam/36dot5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongssam/36dot5/issues"
+  },
+  "homepage": "https://github.com/hongssam/36dot5#readme",
+  "dependencies": {
+    "bcrypt-node": "^0.1.0",
+    "bcrypt-nodejs": "0.0.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "mongoskin": "^2.1.0",
+    "stylus": "^0.54.5"
+  }
+}
