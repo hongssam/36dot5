@@ -31,12 +31,12 @@ const users = [
     {
         user_id:'jinpyo0311',
         user_nickname:'홍삼',
-        user_pwd:'Wksvy124@'
+        user_pwd:'********'
     },
     {
         user_id:'jinpyo311',
         user_nickname:'홍삼2',
-        user_pwd:'Wksvy124@' 
+        user_pwd:'********' 
     }
 ]
 
