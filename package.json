@@ -20,7 +20,7 @@
     "bcrypt-node": "^0.1.0",
     "bcrypt-nodejs": "0.0.3",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.16.1",
     "mongoskin": "^2.1.0",
     "stylus": "^0.54.5"
